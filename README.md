@@ -1,16 +1,15 @@
 # Snake Bug Game
 
-This is simple snake game using pygame module. The basic version had
-only one difficulty level, no menu and snake moved outside the screen.
+This is a simple snake game using pygame module. The basic version hadonly one difficulty level, no menu, and a snake moved outside the screen.
 
 I have based this project on tutorial from
 [CodeBasics](https://www.youtube.com/watch?v=9F8zD42hQCA&list=PLeo1K3hjS3usBtsdSgNFe8LfVHPQ0Ynn5&ab_channel=codebasics)
 
 
 I have modified it, adding:
-- menu with 3 difficulty levels : easy, medium and hard with different snake speed
+- menu with 3 difficulty levels: easy, medium, and hard with different snake speed
 - snake bouncing off the border
-- different background, sounds and images.
+- different background, sounds, and images.
 
 
 
